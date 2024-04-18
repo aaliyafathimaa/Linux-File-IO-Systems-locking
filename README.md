@@ -101,10 +101,3 @@ return 0;
 
 # RESULT:
 The programs are executed successfully.
-
-
-
-
-
-# RESULT:
-The programs are executed successfully.
